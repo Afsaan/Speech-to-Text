@@ -1,4 +1,5 @@
+audio_chunks/
+audio_files/
 note.txt
+recognized.txt
 s2t.csv
-test1.wav
-test.wav
